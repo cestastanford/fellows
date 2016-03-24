@@ -2,7 +2,7 @@
 
 title:            CESTA Fellows
 locale:           en_US
-url:
+url: http://cestastanford.github.io/fellows/
 
 
 # Jekyll configuration
@@ -46,33 +46,11 @@ owner:
   org: Stanford University
   avatar: CESTA_logo.png
   bio: "The Center for Spatial and Textual Analysis at Stanford University."
-  email:
-  disqus-shortname:
+  email: cesta@stanford.edu
   twitter: cesta_stanford
-  facebook: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
+
+  github: cestastanford
+
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
