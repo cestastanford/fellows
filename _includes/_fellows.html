@@ -4,14 +4,13 @@
 	<div class="col-md-10">
 
 	<h2>2015-16 Fellows</h2>
-<ul class="media-list">
+<ul class="thumbnail-list">
 
 {% for person in site.data.fellows %}
 	{% if person.fellowshipyear == '2015-16' %}
 	<li class="media">
-	  <span class="pull-left" >
 		  <img class="bio-photo" src="{{ person.img }}" alt="{{ person.name }}" width="180">
-	  </span>
+
 	<div class="media-body">
 		  <h4>{{ person.fullname }} <small> {{ person.projecttitle }}</small></h4>
 		<span>{{ person.description }}</span> 
