@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Whither digital humanities?"
+title: "Job Market for Digital Historians"
 author: vhtroyansky
 date: 2016-04-13
 category: 
