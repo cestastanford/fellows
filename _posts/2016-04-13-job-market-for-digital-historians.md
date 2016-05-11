@@ -1,3 +1,15 @@
+---
+layout: post
+title: "Whither digital humanities?"
+author: vhtroyansky
+date: 2016-04-13
+category: 
+published: true
+excerpt: "Digital history is a steadily growing subfield within the historical discipline, and an increasing number of universities establish tenure-track and tenured positions in the field. Molly Taylor-Poleskey joined graduate fellows at the Center for Spatial Textual Analysis (CESTA) for a discussion about the job market in digital history."
+
+---
+
+
 On April 13, 2016, Molly Taylor-Poleskey joined graduate fellows at the Center for Spatial Textual Analysis (CESTA) for a discussion about the job market in digital history. Molly graduated with a Ph.D. in Early Modern European History from Stanford University and is a fellow at the Humanities+Design lab at CESTA. In Fall 2016, she will be starting an assistant professorship in digital history at Middle Tennessee State University (MTSU). Molly will use her expertise in digital humanities, developed at CESTA and beyond, towards setting up a digital humanities research lab and a teaching program at MTSU.
 
 Digital history remains a rare subfield on campuses across the nation. In 2015, digital history was represented in only [5.6 percent of History departments](https://www.historians.org/publications-and-directories/perspectives-on-history/december-2015/the-rise-and-decline-of-history-specializations-over-the-past-40-years/) and claimed as a subfield by 0.3 percent of the listed faculty nationwide.
