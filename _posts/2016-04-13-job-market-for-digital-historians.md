@@ -1,9 +1,15 @@
-layout	title	author	date	category	published	excerpt
-post
-Job Market for Digital Historians
-vhtroyansky
-2016-04-13
-true
+---
+layout: post
+title: "Job Market for Digital Historians"
+author: vhtroyansky
+date: 2016-04-13
+category: 
+published: true
+excerpt: "Digital history is a steadily growing subfield within the historical discipline, and an increasing number of universities establish tenure-track and tenured positions in the field. Molly Taylor-Poleskey joined graduate fellows at the Center for Spatial Textual Analysis (CESTA) for a discussion about the job market in digital history."
+
+---
+
+
 Digital history is a steadily growing subfield within the historical discipline, and an increasing number of universities establish tenure-track and tenured positions in the field. Molly Taylor-Poleskey joined graduate fellows at the Center for Spatial Textual Analysis (CESTA) for a discussion about the job market in digital history.
 On April 13, 2016, Molly Taylor-Poleskey joined graduate fellows at the Center for Spatial Textual Analysis (CESTA) for a discussion about the job market in digital history. Molly graduated with a Ph.D. in Early Modern European History from Stanford University and is a fellow at the Humanities+Design lab at CESTA. In Fall 2016, she will be starting an assistant professorship in digital history at Middle Tennessee State University (MTSU). Molly will use her expertise in digital humanities, developed at CESTA and beyond, towards setting up a digital humanities research lab and a teaching program at MTSU.
 
